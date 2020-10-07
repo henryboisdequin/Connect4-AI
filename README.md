@@ -2,7 +2,7 @@
 
 This is a Connect 4 AI built with numpy, pygame, sys, math, and the random module.
 
-### AI
+## AI:
 ![Scoring](minimax.png)
 
 This game's AI is using the minimax algorithm. Minimax is a backtracking algorithm commonly used in board game AI's. There are two components to minimax: the maximiser and the minimiser. The maximiser tries to get the highest score possible while the minimiser tries to get the lowest score possible (how score is chosen is above). If the maximiser has upper hand then, the score of the board will tend to be some positive value. If the minimiser has the upper hand in that board state then it will tend to be some negative value.
@@ -62,6 +62,7 @@ As you can see in my minimax algorithm code, I have a minimiser and a maximiser.
 
 **Citations**:
 https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+https://www.youtube.com/watch?v=y7AKtWGOPAE
 
 #### Running the Game:
 ```
