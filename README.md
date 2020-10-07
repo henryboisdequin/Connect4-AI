@@ -61,6 +61,7 @@ def minimax(board, depth, alpha, beta, maximizingPlayer):
 As you can see in my minimax algorithm code, I have a minimiser and a maximiser. I return the column, value of either the minimiser or the maximiser decision. Which one has the upper hand dictates where I return those values.
 
 **Citations**:
+
 https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
 https://www.youtube.com/watch?v=y7AKtWGOPAE
 
